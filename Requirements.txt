@@ -1,15 +1,12 @@
-Python== 3.10 or higher
-
-Python Packkages:
-  greenlet==3.1.1
-   numpy==2.1.1
-   pandas==2.2.3
-   psycopg2==2.9.9
-   py4j==0.10.9.7
-   pyspark==3.5.2
-   python-dateutil==2.9.0.post0
-   pytz==2024.2
-   six==1.16.0
-   sqlalchemy==2.0.35
-   typing_extensions==4.12.2
-   tzdata==2024.1
+greenlet==3.1.1
+numpy==2.1.1
+pandas==2.2.3
+psycopg2==2.9.9
+py4j==0.10.9.7
+pyspark==3.5.2
+python-dateutil==2.9.0.post0
+pytz==2024.2
+six==1.16.0
+sqlalchemy==2.0.35
+typing_extensions==4.12.2
+tzdata==2024.1
